@@ -9,7 +9,7 @@ This project applies advanced Power BI techniques using a **Hindi songs dataset*
 
 
 # Dashboard Preview :
-![Spotify Dashboard](./spotify-dashboard.png)
+![Spotify Dashboard](./Spotify-Dashboard.png)
 
 # How to Use
 

@@ -5,7 +5,23 @@ a complete end-to-end Power BI project focused on exploring the world of **Hindi
 
 This project applies advanced Power BI techniques using a **Hindi songs dataset**
 
-# Tools Used - Power BI Desktop
+# Tool Used - Power BI Desktop
+
 
 # Dashboard Preview :
-"C:\Users\ishik\OneDrive\Pictures\Screenshots\Spotify Dashboard.png"
+![Spotify Dashboard](./spotify-dashboard.png)
+
+# How to Use
+
+1. Download this repository
+2. Open the `.pbix` file in **Power BI Desktop**
+3. If prompted, update the data source path in **Power Query**
+4. Explore the dashboard, slicers, and custom visuals
+5. Review the DAX formulas and Deneb JSON for learning
+
+
+
+Acknowledgement:
+
+This project was built with help from the YouTube tutorial:
+Advanced Power BI Project – End-to-End – ChatGPT – Custom Visuals by Power BI Park
